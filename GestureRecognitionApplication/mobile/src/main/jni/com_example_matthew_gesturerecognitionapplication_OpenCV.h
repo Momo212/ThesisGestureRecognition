@@ -3,7 +3,7 @@
 #include "opencv2/opencv.hpp"
 /* Header for class com_example_matthew_gesturerecognitionapplication_OpenCV */
 
-using namespace sc;
+using namespace cv;
 #ifndef _Included_com_example_matthew_gesturerecognitionapplication_OpenCV
 #define _Included_com_example_matthew_gesturerecognitionapplication_OpenCV
 #ifdef __cplusplus
